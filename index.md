@@ -34,7 +34,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Sep 19  |  | | 
 | Sep 26 (ICLR) |  | | 
 | Oct 3  | Zixuan Xie | | 
-| Oct 10  | Xinyu Liu | | 
+| Oct 10  | Xinyu Liu | | [A dynamic view of some anomalous phenomena in SGD](https://arxiv.org/abs/2505.01751v2) |
 | Oct 17  | Amir Moeini  | | 
 | Oct 24  | Haolin Liu | | 
 | Oct 31  | Braham Snyder | | 
