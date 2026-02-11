@@ -34,7 +34,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Mar 13  | Zixuan Xie | | 
 | Mar 20  | |  |
 | Mar 27  | | |
-| Apr 3  | | |
+| Apr 3  | Xinyu Liu | |
 | Apr 10  || |
 | Apr 17  || |
 | Apr 24  | | |
